@@ -1,6 +1,7 @@
 # Git Workflow Cheat Sheet
 
 Our team's branching strategy, naming rules, and daily workflow. **Read this before pushing.**
+<img width="1440" height="1360" alt="Image" src="https://github.com/user-attachments/assets/df3091b6-df46-4eb1-aea3-fbe50560e914" />
 
 ---
 
